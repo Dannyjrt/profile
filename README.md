@@ -1,0 +1,1 @@
+This is a basic HTML and CSS profile. I am learning the basics of these two front end languages. This profile dooes not carry any JavaScript, but within the coming weeks I will be adding JavaScript to this profile along with a more elegant design. # profile
